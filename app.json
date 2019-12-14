@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
+  "name": "lit-woodland-71230",
   "description": "A barebones Python app, which can easily be deployed to Heroku.",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/learning_AI",
+  "repository": "https://github.com/2610199-run/test.git",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
